@@ -1,0 +1,7 @@
+- create main
+- create feat/welcome
+- apply changed main to feat/welcome
+- rebase main to feat/welcome
+- pull from repo feat/welcome
+- push feat/welcome to remote repo
+- create feat/greeting
